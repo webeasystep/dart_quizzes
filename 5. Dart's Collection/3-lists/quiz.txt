@@ -1,0 +1,18 @@
+you have a list of number , 
+1- try to print the first and last elements only using index
+2-try to print the first and last elements only using built-in functions
+var numbers = [1,2,3,4,5];
+////////////////
+
+you have two lists 
+1- try to merge them in one list and print
+
+  var numbers = [1,2,3,4,5];
+    var another_numbers = [6,7,8,9,10];
+
+/////////////////////
+you have two lists 
+2- try to merge them in one list and remove the duplicated values and print
+
+  var numbers = [10,2,3,4,5];
+    var another_numbers = [5,7,8,9,10];
